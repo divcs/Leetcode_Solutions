@@ -1,4 +1,4 @@
-<img src="./Docs/Banner.png" />
+<img src="./Docs/Banner.png"  />
 
 # LeetCode Solutions
 
@@ -18,7 +18,11 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 <img src="https://img.shields.io/badge/Issues-Open-blue.svg" alt="Open Issues">
 <img src="https://img.shields.io/badge/Forks-0-blue.svg" alt="Forks">
 
+</p>
+
 ##### Languages Supported 
+
+<p float="left">
 
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript" alt="JavaScript">
 <img src="https://img.shields.io/badge/python-black?logo=python" alt="Python">
@@ -40,8 +44,6 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 <img src="https://img.shields.io/badge/r-black?logo=r" alt="R">
 <img src="https://img.shields.io/badge/perl-black?logo=perl" alt="Perl">
 <img src="https://img.shields.io/badge/other-languages-black" alt="Other Languages">
-
-
 
 
 </p>
