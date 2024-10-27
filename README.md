@@ -81,6 +81,14 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 7. Open a Pull Request on this repository.
 8. Ensure your submission follows the [Contributing Guidelines](CONTRIBUTING.md).
 
+## Contributors
+
+Thankyou for all the contributors who put their efforts in providing this repository with useful and efficient solutions.
+
+<a href="https://github.com/OWNER/REPO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=divcs/Leetcode_Solutions" />
+</a>
+
 ## Contribution Guidelines
 
 - Each solution should be your original work.
@@ -92,11 +100,5 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 ## Hacktoberfest Participation
 
 This project is part of [Hacktoberfest 2024](https://hacktoberfest.com/)!
-
-## Contributors
-
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
-</a>
 
 **Happy Coding!**
