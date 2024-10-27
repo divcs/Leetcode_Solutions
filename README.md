@@ -20,7 +20,7 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 
 </p>
 
-##### Languages Supported 
+##### Languages Supported
 
 <p float="left">
 
@@ -45,36 +45,38 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 <img src="https://img.shields.io/badge/perl-black?logo=perl" alt="Perl">
 <img src="https://img.shields.io/badge/other-languages-black" alt="Other Languages">
 
-
 </p>
-
 
 ## How to Contribute?
 
 1. Fork this repository.
 2. Clone the forked repository to your local machine.
 3. Create a new branch for your changes:
-    ```
-    git checkout -b my-leetcode-solution
-    ```
+   ```
+   git checkout -b my-leetcode-solution
+   ```
 4. Add your solution inside the `solutions/` directory following this structure:
-    ```
-    {leetcode-problem-number}-{problem-name}/{your-username}.{file-extension}
-    ```
+
+   ```
+   {leetcode-problem-number}-{problem-name}/{your-username}.{file-extension}
+   ```
+
    Example:
+
    ```
    1-two-sum/username.py
    ```
 
 5. Commit your changes:
-    ```
-    git add .
-    git commit -m "Added solution for LeetCode problem #1 in Python"
-    ```
+   ```
+   git add .
+   git commit -m "Added solution for LeetCode problem #1 in Python"
+   ```
 6. Push to your forked repository:
-    ```
-    git push origin my-leetcode-solution
-    ```
+
+   ```
+   git push origin my-leetcode-solution
+   ```
 
 7. Open a Pull Request on this repository.
 8. Ensure your submission follows the [Contributing Guidelines](CONTRIBUTING.md).
@@ -90,5 +92,11 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 ## Hacktoberfest Participation
 
 This project is part of [Hacktoberfest 2024](https://hacktoberfest.com/)!
+
+## Contributors
+
+<a href="https://github.com/OWNER/REPO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+</a>
 
 **Happy Coding!**
