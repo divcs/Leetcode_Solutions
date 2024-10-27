@@ -85,7 +85,7 @@ Welcome to the **LeetCode Solutions for Hacktoberfest** project! This repository
 
 Thankyou for all the contributors who put their efforts in providing this repository with useful and efficient solutions.
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
+<a href="https://github.com/divcs/Leetcode_Solutions/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=divcs/Leetcode_Solutions" />
 </a>
 
